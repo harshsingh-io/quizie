@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/harshsingh-io/calculator/blob/main/ic_launcher.png?raw=true)
+![Logo](https://github.com/harshsingh-io/quizie/blob/main/ic_launcher.png)
 
 
 # Quizie
@@ -12,8 +12,9 @@ Our app is designed to help you participate in group activities and study on you
 
 ## Features
 
-- Easy to use calculator.
-- Comes with dark theme to allow smooth usage of calculator.
+- This stress-relieving trivia game will take your mind off daily troubles and help you relax.
+Just your brain and our quizzes. No need to wait for other players' replies!
+- Install Quizie and answer trivia questions, read interesting explanations, educate yourself.
 - Contains no ads or unnecessary permissions. It is fully opensource
 - Buttons sized according to the average finger tapping on screen to make calculations more comfortable.
 
@@ -34,10 +35,11 @@ Java, Kotlin, DSA, Problem Solving, Android Development
 
 ## Screenshots
 
-![App Screenshot](https://github.com/harshsingh-io/raw/blob/main/calci1.png?raw=true)
-![App Screenshot](https://github.com/harshsingh-io/raw/blob/main/c2.png?raw=true)
-![App Screenshot](https://github.com/harshsingh-io/raw/blob/main/c3.png?raw=true)
-![App Screenshot](https://github.com/harshsingh-io/raw/blob/main/c4.png?raw=true)
+![App Screenshot](https://github.com/harshsingh-io/quizie/blob/main/Screenshot_MainScreen.png)
+![App Screenshot](https://github.com/harshsingh-io/quizie/blob/main/Screenshot_DefaultQuestionScreen.png)
+![App Screenshot](https://github.com/harshsingh-io/quizie/blob/main/Screenshot_RightAnswer.png)
+![App Screenshot](https://github.com/harshsingh-io/quizie/blob/main/Screenshot_ScreenOnWrongAnswer.png)
+![App Screenshot](https://github.com/harshsingh-io/quizie/blob/main/Screenshot_ResultScreen.png)
 ## Demo
 
 https://github.com/harshsingh-io/raw/raw/main/calcidemo.mp4
