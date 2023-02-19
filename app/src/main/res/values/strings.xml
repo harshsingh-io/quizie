@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quizie</string>
+    <string name="your_score_is_0_out_of_9">Your Score is 0 out of 9</string>
+    <string name="finish">FINISH</string>
+    <string name="user">User</string>
+    <string name="hey_congratulations">Hey, Congratulations!</string>
+    <string name="result">Result</string>
+    <string name="quizie">Quizie!</string>
+    <string name="welcome">Welcome</string>
+    <string name="please_enter_your_name">Please enter your name.</string>
+    <string name="e_g_john">e.g. John</string>
+    <string name="start">START</string>
+    <string name="logo">LOGO</string>
+    <string name="quiz_image">Quiz Image</string>
+    <string name="_0_10">0/10</string>
+    <string name="submit">SUBMIT</string>
+</resources>
