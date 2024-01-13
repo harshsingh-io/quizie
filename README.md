@@ -33,7 +33,7 @@ I'm a full stack android developer...
 Java, Kotlin, DSA, Problem Solving, Android Development
 
 
-## Screenshots
+## Demo
 
 ![App Screenshot](https://github.com/harshsingh-io/quizie/blob/main/Screenshot_MainScreen.png)
 ![App Screenshot](https://github.com/harshsingh-io/quizie/blob/main/Screenshot_DefaultQuestionScreen.png)
